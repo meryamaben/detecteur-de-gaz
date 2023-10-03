@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "objets-connectes-7338c": {
+      "hosting": {
+        "detecteur_de_gaz": [
+          "objets-connectes-7338c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "objets-connectes-7338c"
+  }
+}

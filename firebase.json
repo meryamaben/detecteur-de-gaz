@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "detecteur_de_gaz",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

@@ -17,7 +17,7 @@ import { FIREBASE_OPTIONS } from '@angular/fire/
     provideAuth(() => getAuth()),
     provideDatabase(() => getDatabase())
   ],
-  providers: [{ provide: FIREBASE_OPTIONS, useValue: environment.firebase }],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
